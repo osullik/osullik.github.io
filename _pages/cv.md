@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, [University of Maryland](https://umd.edu), 2024
+* Master of Data Science, [University of Southern Queensland](https://unisq.edu.au), 2022
+* B.I.T (Hons), [University of New South Wales](https://unsw.edu.au), 2015
+* Grad. Dip of Military Leadersip, [Royal Military College - Duntroon](https://army.gov.au/duntroon), 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2023 - Jan 2024: Graduate Research Assistant 
+  * [Applied Research Laboratory for Intelligence and Secrurity](https://arlis.umd.edu)
+  * Mentor for the [Research for Intelligence and Security Challenges (RISC) program.](httos://arlis.umd.edu/risc) and team lead - Graph Hardware Accelerator Benchmarking.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2011 - Present: Army Officer
+  * [Australian Army](https://army.gov.au)
+  * Various technical leadership, management, teaching and capability development roles.
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,11 +41,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -59,6 +53,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
