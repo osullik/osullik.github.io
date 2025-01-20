@@ -1,5 +1,5 @@
 ---
-title: "The cyber simulation terrain: Towards an open source cyber effects simulation ontology"
+title: "The Cyber Simulation Terrain: Towards an Open Source Cyber Effects Simulation Ontology"
 collection: publications
 category: conferences
 permalink: /publication/2015-11-30-The-cyber-simulation-terrain

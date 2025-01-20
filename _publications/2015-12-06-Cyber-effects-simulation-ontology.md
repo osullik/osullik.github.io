@@ -1,5 +1,5 @@
 ---
-title: "System of systems cyber effects simulation ontology"
+title: "System of Systems Cyber Effects Simulation Ontology"
 collection: publications
 category: conferences
 permalink: /publication/2015-12-06-Cyber-effects-simulation-ontology
