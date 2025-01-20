@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Aug 2023 - Jan 2024: Graduate Research Assistant 
-  * [Applied Research Laboratory for Intelligence and Secrurity](https://arlis.umd.edu)
+  * [Applied Research Laboratory for Intelligence and Security](https://arlis.umd.edu)
 
 
 * January 2011 - Present: Army Officer
