@@ -3,12 +3,12 @@ title: "A Framework for Benchmarking Graph-Based Artificial Intelligence"
 collection: publications
 category: theses
 permalink: /publication/2024-05-21-Graph-based-ai-benchmark
-excerpt: 'Advised by Bill Regli at the University of Maryland.'
+excerpt: 'Advised by [Bill Regli](https://www.cs.umd.edu/people/regli) at the [University of Maryland](https://www.cs.umd.edu/).'
 date: 2024-05-21
 venue: 'University of Maryland Masters Thesis'
 slidesurl: 'https://github.com/osullik/umd_thesis'
 paperurl: 'https://doi.org/10.13016/gwgs-7jgd'
-# citation: "O'Sullivan, Kent. 2015. Development of a Cyber Effects Simulation Ontology for Use in Military Simulation. UNSW Honours Thesis"
+
 ---
 
 Graph-based Artificial Intelligence (GraphAI) encompasses AI problems formulated using graphs, operating on graphs, or relying on graph structures for learning.
@@ -21,3 +21,10 @@ The taxonomy and problem survey guide the development of a framework that fuses 
 We formalize a methodology for developing problem-centric GraphAI benchmarks and develop a tool to create graphs from OpenStreetMaps data to fill a gap in real-world mesh graph datasets required for benchmark inputs. 
 Finally, this work provides a completed benchmark for the Population Segmentation Intelligence and Security problem developed using the GraphAI benchmark problem development methodology. 
 It provides experimental results that validate the utility of the GraphAI benchmark framework for evaluating if, how, and when GraphAI acceleration should be applied to the population segmentation problem.
+
+    @mastersthesis{osullivan2024,
+    title={A Framework for Benchmarking Graph-Based Artificial Intelligence},
+    author={O'Sullivan, Kent Daniel},
+    year={2024},
+    school={University of Maryland, College Park}
+    }

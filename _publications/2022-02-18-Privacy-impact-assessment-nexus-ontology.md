@@ -3,12 +3,12 @@ title: "Development of a Privacy Impact Assessment Ontology for the Internet of 
 collection: publications
 category: theses
 permalink: /publication/2022-02-18-Privacy-impact-assessment-nexus-ontology
-excerpt: 'Advised by Xiaohui Tao at the University of Southern Queensland.'
+excerpt: 'Advised by [Xiaohui Tao](https://tao-xiaohui.info/) at the [University of Southern Queensland](https://www.unisq.edu.au/).'
 date: 2022-02-18
 venue: 'University of Southern Queensland Masters Thesis'
 slidesurl: 'https://github.com/osullik/Privacy-Impact-Assessment-Nexus-Ontology'
 paperurl: 'https://github.com/osullik/Privacy-Impact-Assessment-Nexus-Ontology'
-# citation: "O'Sullivan, Kent. 2015. Development of a Cyber Effects Simulation Ontology for Use in Military Simulation. UNSW Honours Thesis"
+
 ---
 
 The intersection of the Internet of Things and Privacy domains has created new, unprecedented complexity. 
@@ -18,3 +18,10 @@ This thesis describes the application of agile ontology development approaches t
 The development of the knowledgebase employs semi-automated ontology learning to derive new knowledge about the intersection of IoT devices and an individual’s privacy. 
 The development and evaluation usecase is derived from the Social Internet of Things project dataset, and its application reveals the significant potential of PIANO, and importantly the development methodology that is driving its development to finally bridging the gap between IoT and Personal Privacy. 
 The conditions are set for future work in this area, linking the abstract PIANO structure to granular IoT and Personal ontologies, demonstrating its utility outside of a pure proof-of-concept simulation
+
+    @mastersthesis{osullivan2022,
+    title={Development of a Privacy Impact Assessment Ontology for the Internet of Things},
+    author={O'Sullivan, Kent},
+    year={2022},
+    school={University of Southern Queensland}
+    }

@@ -3,7 +3,7 @@ title: "Development of a Cyber Effects Ontology for Use in Military Simulation"
 collection: publications
 category: theses
 permalink: /publication/2015-11-04-Development-of-cyber-effects-ontology
-excerpt: 'Advised by Benjamin Turnbull at the University of New South Wales Canberra.'
+excerpt: 'Advised by [Benjamin Turnbull](https://www.unsw.edu.au/staff/benjamin-turnbull) at the [University of New South Wales Canberra](https://www.unsw.edu.au/canberra).'
 date: 2015-11-04
 venue: 'University of New South Wales Honours Thesis'
 slidesurl: # URL
@@ -21,3 +21,10 @@ The proposed Agilitology is the first ontology development approach to apply an 
 The Agilitology approach is then used to construct the Cyber Effects Simulation Ontology. 
 The Cyber Effects Simulation Ontology and its two component sub-ontologies: the Cyber Simulation Terrain and the Threat Simulation Ontology are able to effectively, transparently and comprehensively represent cyber effects on military systems in a simulation context. 
 These novel ontologies are applied to a test usecase drawn from a hypothetical military combat scenario to demonstrate the functionality and utility of the Cyber Effects Simulation Ontology before defining future research directions and applications of this work.
+
+    @mastersthesis{osullivan2015,
+    title={Development of a Cyber Effects Ontology for Use in Military Simulation},
+    author={O'Sullivan, Kent Daniel},
+    year={2015},
+    school={University of New South Wales}
+    }

@@ -20,7 +20,7 @@ Work experience
 ======
 * Aug 2023 - Jan 2024: Graduate Research Assistant 
   * [Applied Research Laboratory for Intelligence and Secrurity](https://arlis.umd.edu)
-  * Mentor for the [Research for Intelligence and Security Challenges (RISC) program.](httos://arlis.umd.edu/risc) and team lead - Graph Hardware Accelerator Benchmarking.
+
 
 * January 2011 - Present: Army Officer
   * [Australian Army](https://army.gov.au)

@@ -14,7 +14,7 @@ name                     : &name "Kent O'Sullivan"
 description              : &description "personal description"
 url                      : https://osullik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "osullik.osullik.github.io"
+repository               : "osullik/osullik.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Links"
   pronouns         : "he/him/his" # example: "she/her"  
-  bio              : "2022 Fulbright Scholar with active research interests in Applied AI, Cyber Security, and Geospatial Computing."
-  location         : "Canberra, Australia"
-  employer         : "TBA"
+  bio              : "USYD PhD Student working in Natural Language Processing and 2022 Fulbright Scholar with borad research interests in, applied AI, Cyber Security, and Geospatial Computing."
+  location         : "Adelaide, Australia"
+  employer         : "University of Sydney"
   uri              : "https://osullik.github.io" # URL
   email            : "osullik@umd.edu" 
 
@@ -53,8 +53,8 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : osullik # Username
-  google_plus      : # Username
+  goodreads        : # Username
+  google_plus      : # Username 
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
@@ -132,7 +132,7 @@ yandex_site_verification : #
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               : #
   app_id                 : #
